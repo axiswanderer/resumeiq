@@ -1,0 +1,51 @@
+resume_id,skills,score,hired_label
+resume_0.pdf,"Java, SQL, Kubernetes, AWS",0.25,0
+resume_1.pdf,"React, SQL",0.25,0
+resume_2.pdf,"Docker, Java, Python, Kubernetes",0.5,1
+resume_3.pdf,"Kubernetes, React, AWS",0.0,0
+resume_4.pdf,"Python, Docker, AWS, Java",0.5,1
+resume_5.pdf,"Python, SQL, Docker, Kubernetes, Machine Learning",1.0,1
+resume_6.pdf,"Kubernetes, React, SQL, AWS",0.25,0
+resume_7.pdf,"Kubernetes, Python, Excel, Machine Learning, SQL",0.75,1
+resume_8.pdf,"Node.js, Kubernetes, React, Python",0.25,0
+resume_9.pdf,"Docker, Machine Learning, React, Python, Java, Kubernetes",0.75,1
+resume_10.pdf,"Node.js, Kubernetes, SQL, Docker, AWS",0.5,1
+resume_11.pdf,"React, AWS, Node.js, Docker",0.25,0
+resume_12.pdf,"Python, SQL, AWS",0.5,1
+resume_13.pdf,"Machine Learning, Java",0.25,0
+resume_14.pdf,"React, Excel, SQL, Node.js, Docker",0.5,1
+resume_15.pdf,"Machine Learning, Python, Node.js",0.5,1
+resume_16.pdf,"Excel, SQL, Java, AWS, Docker",0.5,1
+resume_17.pdf,"SQL, Docker, Excel, Machine Learning, Kubernetes",0.75,1
+resume_18.pdf,"Python, AWS, Machine Learning, Docker",0.75,1
+resume_19.pdf,"Machine Learning, Kubernetes, React, Node.js, Java, AWS",0.25,0
+resume_20.pdf,"Java, Excel, React, SQL, Node.js, Kubernetes",0.25,0
+resume_21.pdf,"React, Kubernetes, Excel, Docker, Machine Learning, Java",0.5,1
+resume_22.pdf,"Machine Learning, Excel",0.25,0
+resume_23.pdf,"SQL, Machine Learning, Docker, React, Kubernetes, Excel",0.75,1
+resume_24.pdf,"React, Excel, Python",0.25,0
+resume_25.pdf,"Excel, SQL, Machine Learning, React, Java, Python",0.75,1
+resume_26.pdf,"Machine Learning, Python",0.5,1
+resume_27.pdf,"SQL, Java, Excel",0.25,0
+resume_28.pdf,"Java, Machine Learning, Docker, React, Excel, Kubernetes",0.5,1
+resume_29.pdf,"Kubernetes, SQL",0.25,0
+resume_30.pdf,"AWS, Excel, Java, Docker",0.25,0
+resume_31.pdf,"SQL, Node.js, Excel, Machine Learning",0.5,1
+resume_32.pdf,"SQL, AWS, Excel, Docker",0.5,1
+resume_33.pdf,"Docker, Python, Node.js, AWS, Excel",0.5,1
+resume_34.pdf,"SQL, React, Machine Learning",0.5,1
+resume_35.pdf,"Docker, AWS, Java, Kubernetes, Node.js",0.25,0
+resume_36.pdf,"Excel, Python, SQL, Java, Docker, AWS",0.75,1
+resume_37.pdf,"React, AWS, Docker, Excel, Machine Learning, SQL",0.75,1
+resume_38.pdf,"Python, SQL, Machine Learning, Docker",1.0,1
+resume_39.pdf,"Docker, Machine Learning, Java",0.5,1
+resume_40.pdf,"Docker, Node.js, Excel, Machine Learning, AWS",0.5,1
+resume_41.pdf,"Excel, Docker, Node.js",0.25,0
+resume_42.pdf,"Python, React, Node.js, SQL, Machine Learning, Docker",1.0,1
+resume_43.pdf,"Machine Learning, Node.js, Docker, Excel, Java, Kubernetes",0.5,1
+resume_44.pdf,"Docker, Python, Excel, React",0.5,1
+resume_45.pdf,"React, SQL",0.25,0
+resume_46.pdf,"Java, Python, Docker",0.5,1
+resume_47.pdf,"Excel, React, Java, Python, Kubernetes, Machine Learning",0.5,1
+resume_48.pdf,"Kubernetes, Machine Learning",0.25,0
+resume_49.pdf,"AWS, Python",0.25,0
